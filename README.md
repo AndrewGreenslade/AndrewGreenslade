@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Andrew</h1>
+<h3 align="center">A software engineer from Co. Wexford, Ireland</h3>
 
-<!--
-**AndrewGreenslade/AndrewGreenslade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<img src="">
+ 
+<h3 align="center">
+<img src="https://img.shields.io/badge/-C%2B%2B-brightgreen?style=plastic&logo=cplusplus"> <img src="https://img.shields.io/badge/-C%20Sharp-grey?style=plastic&logo=csharp"> <img src="https://img.shields.io/badge/-Javascript-lightgrey?style=plastic&logo=javascript"> <img src="https://img.shields.io/badge/-Python-red?style=plastic&logo=python"> <img src="https://img.shields.io/badge/-HTML-blue?style=plastic&logo=html5"> <img src="https://img.shields.io/badge/-CSS-pink?style=plastic&logo=css3"> <img src="https://img.shields.io/badge/-SQL-green?style=plastic&logo=mysql">
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 💬 Ask me about
+- Any Programming questions in these Lanugaues (See above)
+- Design Patterns
