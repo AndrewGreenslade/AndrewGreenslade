@@ -18,7 +18,7 @@
 - Video Games (Programming, 3D modeling, 2D texturing, Animating, etc.)
 
 ## 😊 About Me
-- Currently in my final year at SETU Carlow, studying Computer Games Development.
+- Recently graduated from SETU Carlow's, Computer Games Development course.
 
 <br>
 
