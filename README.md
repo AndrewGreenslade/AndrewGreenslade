@@ -29,3 +29,7 @@
  </a>
 
 </h3>
+
+<br>
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewGreenslade&show_icons=true&count_private=true&theme=radical) ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewGreenslade&layout=compact&theme=radical)
